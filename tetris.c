@@ -6,6 +6,7 @@
 // Use as instruções de cada nível para desenvolver o desafio.
 
 int main() {
+    printf("Desafio Tetris!\n");
 
     // 🧩 Nível Novato: Fila de Peças Futuras
     //
